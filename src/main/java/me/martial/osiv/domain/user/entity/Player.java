@@ -1,4 +1,4 @@
-package me.martial.osiv.domain.user;
+package me.martial.osiv.domain.user.entity;
 
 import jakarta.persistence.*;
 import lombok.AccessLevel;
